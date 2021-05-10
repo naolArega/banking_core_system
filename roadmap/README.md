@@ -1,5 +1,11 @@
 ## Roadmap
 
-- database design
+- [ ] database design
+- registeration
+  - [ ] ui design
+  - [ ] connect with model
 - authentication
-- privillage
+  - [ ] ui design
+  - [ ] connct with model
+  - [ ] privilege
+- [ ] actions
