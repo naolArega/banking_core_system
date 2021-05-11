@@ -1,6 +1,6 @@
 ## Roadmap
 
-- [ ] database design
+- [x] database design
 - registeration
   - [ ] ui design
   - [ ] connect with model
